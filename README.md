@@ -5,8 +5,11 @@ link: "https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk
 In this internship, their are total 4 Tasks and last one is optional. So you have to complete the 3 tasks.
 
 Task 1: Interface with a stock price data feed
-
 Task 2: Use JPMorgan Chase & Co. frameworks and tools
-
 Task 3: Display data visually for traders
 Aim: Use Perspective to create a chart for a trading dashboard
+
+Set up your local dev environment by downloading the necessary files, tools and dependencies.
+Fix the broken client datafeed script in the repository by making the required adjustments to it.
+Generate a patch file of the changes you made
+
